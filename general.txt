@@ -3,9 +3,9 @@
 	<StartTime>23:00:00</StartTime>
 	<FinishTime>07:00:00</FinishTime>
 	<RoundPeriod>03:00:00</RoundPeriod>
-	<RoundDelay>00:17:00</RoundDelay>
-	<MinPresenceControlInterval>00:20:00</MinPresenceControlInterval>
-	<MaxPresenceControlInterval>00:25:00</MaxPresenceControlInterval>
+	<RoundDelay>00:15:00</RoundDelay>
+	<MinPresenceControlInterval>00:15:00</MinPresenceControlInterval>
+	<MaxPresenceControlInterval>00:20:00</MaxPresenceControlInterval>
 	<PresenceControlReactionTime>00:02:00</PresenceControlReactionTime>
 	<NFCPoints>
 		<Point>
